@@ -1,4 +1,4 @@
-# RaiSwap Classic Exchange Interface
+# StakeCoin Classic Exchange Interface
 
 Forked from [Sushiswap/sushiswap-classic-exchange](https://github.com/sushiswap/sushiswap-classic-exchange), and updated to work with RaiSwap contracts.
 
